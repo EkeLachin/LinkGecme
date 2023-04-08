@@ -4,6 +4,3 @@ Basit Link yönlendirme Sitesi.
 
 ### EN: This code shows a loading animation, but this time also a countdown inside the circle. The countdown is created with the setInterval() method using JavaScript, and the number is decremented by 1 every second. After the page is opened, it waits for 5 seconds and then redirects to Google.com using the window.location.href attribute
 
-# KOD - CODE
-
- [Welcome file.md](https://github.com/EkeLachin/LinkGecme/files/11183050/Welcome.file.md)
