@@ -1,4 +1,4 @@
-# Link Geçme HTML
+# Link Geçme - Link redirect
 Basit Link yönlendirme Sitesi.
 ### TR: Bu kod, bir yüklenme animasyonu gösterir ancak bu sefer dairenin içinde bir geri sayım da yapar. Geri sayım, JavaScript kullanılarak setInterval() yöntemiyle oluşturulur ve her saniye sayı 1 azaltılır. Sayfa açıldıktan sonra 5 saniye beklenir ve ardından window.location.href özelliği kullanılarak Google.com'a yönlendirilir
 
